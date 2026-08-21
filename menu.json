@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "id": "jt-juice", "brandId": "juice-time", "name": "العصائر الطازجة", "sort": 1, "active": true },
+    { "id": "jt-cocktail", "brandId": "juice-time", "name": "الكوكتيلات", "sort": 2, "active": true },
+    { "id": "jt-mojito", "brandId": "juice-time", "name": "الموهيتو", "sort": 3, "active": true },
+    { "id": "bk-kunafa", "brandId": "baba-kunafa", "name": "الكنافة", "sort": 1, "active": true },
+    { "id": "bk-boxes", "brandId": "baba-kunafa", "name": "بوكسات الحلا", "sort": 2, "active": true }
+  ],
+  "products": []
+}

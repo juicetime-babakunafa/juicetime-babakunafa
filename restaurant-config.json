@@ -1,0 +1,14 @@
+{
+  "restaurantName": "عصير تايم × بابا كنافة",
+  "mainWhatsapp": "",
+  "notice": "أضف من الوكالتين في سلة واحدة، ثم أرسل طلبك إلى واتساب.",
+  "orderingEnabled": true,
+  "hours": "يُحدد من صفحة الإدارة",
+  "adminPinHash": "",
+  "brands": [
+    { "id": "juice-time", "name": "عصير تايم", "sub": "JUICE TIME", "color": "#c3242b", "short": "JT" },
+    { "id": "baba-kunafa", "name": "بابا كنافة", "sub": "BABA KUNAFA", "color": "#d6a625", "short": "BK" }
+  ],
+  "branches": [],
+  "coupons": []
+}

@@ -4,10 +4,22 @@
   "notice": "أضف من الوكالتين في سلة واحدة، ثم أرسل طلبك إلى واتساب.",
   "orderingEnabled": true,
   "hours": "يُحدد من صفحة الإدارة",
-  "adminPinHash": "",
+  "adminPinHash": "68c1dcac73c5a33326e110fe3e879649ef9ace210bfa5dd9860539b5ab138d93",
   "brands": [
-    { "id": "juice-time", "name": "عصير تايم", "sub": "JUICE TIME", "color": "#c3242b", "short": "JT" },
-    { "id": "baba-kunafa", "name": "بابا كنافة", "sub": "BABA KUNAFA", "color": "#d6a625", "short": "BK" }
+    {
+      "id": "juice-time",
+      "name": "عصير تايم",
+      "sub": "JUICE TIME",
+      "color": "#c3242b",
+      "short": "JT"
+    },
+    {
+      "id": "baba-kunafa",
+      "name": "بابا كنافة",
+      "sub": "BABA KUNAFA",
+      "color": "#d6a625",
+      "short": "BK"
+    }
   ],
   "branches": [],
   "coupons": []

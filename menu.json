@@ -1,10 +1,67 @@
 {
   "categories": [
-    { "id": "jt-juice", "brandId": "juice-time", "name": "العصائر الطازجة", "sort": 1, "active": true },
-    { "id": "jt-cocktail", "brandId": "juice-time", "name": "الكوكتيلات", "sort": 2, "active": true },
-    { "id": "jt-mojito", "brandId": "juice-time", "name": "الموهيتو", "sort": 3, "active": true },
-    { "id": "bk-kunafa", "brandId": "baba-kunafa", "name": "الكنافة", "sort": 1, "active": true },
-    { "id": "bk-boxes", "brandId": "baba-kunafa", "name": "بوكسات الحلا", "sort": 2, "active": true }
+    {
+      "id": "jt-juice",
+      "brandId": "juice-time",
+      "name": "العصائر الطازجة",
+      "sort": 1,
+      "active": true
+    },
+    {
+      "id": "jt-cocktail",
+      "brandId": "juice-time",
+      "name": "الكوكتيلات",
+      "sort": 2,
+      "active": true
+    },
+    {
+      "id": "jt-mojito",
+      "brandId": "juice-time",
+      "name": "الموهيتو",
+      "sort": 3,
+      "active": true
+    },
+    {
+      "id": "bk-kunafa",
+      "brandId": "baba-kunafa",
+      "name": "الكنافة",
+      "sort": 1,
+      "active": true
+    },
+    {
+      "id": "bk-boxes",
+      "brandId": "baba-kunafa",
+      "name": "بوكسات الحلا",
+      "sort": 2,
+      "active": true
+    }
   ],
-  "products": []
+  "products": [
+    {
+      "id": "product-1787388005920-ztrg0",
+      "brandId": "juice-time",
+      "categoryId": "jt-juice",
+      "name": "Test",
+      "price": 1000,
+      "description": "",
+      "image": "/menu-images/1787388055848-1000800635.webp",
+      "sort": 1,
+      "active": true,
+      "featured": false,
+      "options": []
+    },
+    {
+      "id": "product-1787388034801-bmbrd",
+      "brandId": "baba-kunafa",
+      "categoryId": "bk-kunafa",
+      "name": "وجبة جديدة",
+      "price": 10000,
+      "description": "",
+      "image": "/menu-images/1787388058294-1000800636.webp",
+      "sort": 2,
+      "active": true,
+      "featured": false,
+      "options": []
+    }
+  ]
 }
